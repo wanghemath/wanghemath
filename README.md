@@ -13,7 +13,7 @@ My work focuses on making advanced mathematics more accessible through computati
 - Advanced Linear Algebra in the AI Age: Geometry, Computation, and Data ([GitHub-Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI))  ([Book Site](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/))   
   Graduate-level applied linear algebra, matrix analysis, computation, data science, and artificial intelligence.
 
-- Linear Algebra Computation [GitHub-Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation)  
+- Linear Algebra Computation ([GitHub-Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation))  
   Linear algebra with computation, algorithms, and applications.
 
 - Linear Algebra Language ([GitHub-Repository](https://github.com/wanghemath/Book-LinearAlgebraLanguage)) ([Book Site](https://wanghemath.github.io/Book-LinearAlgebraLanguage/))   
@@ -21,13 +21,13 @@ My work focuses on making advanced mathematics more accessible through computati
 
 ### Probability, Statistics, and Stochastic Processes
 
-- [Book-IntroProbabilityStatistics](https://github.com/wanghemath/Book-IntroProbabilityStatistics)  ([Book Site](https://wanghemath.github.io/Book-IntroProbabilityStatistics/))   
+- Probability and Statistics introduction ([GitHub-Repository](https://github.com/wanghemath/Book-IntroProbabilityStatistics))  ([Book Site](https://wanghemath.github.io/Book-IntroProbabilityStatistics/))   
   Introductory probability and statistics with computation and simulation.
 
-- [Book-ProbabilityStatisticalTheory](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory) ([Book Site](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/))   
+- Probability Statistical Theory ([GitHub-Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)) ([Book Site](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/))   
   Foundations of probability and statistical theory for graduate students.
 
-- [Book-StochasticProcesses](https://github.com/wanghemath/Book-StochasticProcesses) ([Book Site](https://wanghemath.github.io/Book-StochasticProcesses/))  
+- Stochastic Processes ([GitHub-Repository](https://github.com/wanghemath/Book-StochasticProcesses)) ([Book Site](https://wanghemath.github.io/Book-StochasticProcesses/))  
   Theory, computation, simulation, and applications of stochastic processes.
 
 ### Machine Learning
