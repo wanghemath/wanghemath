@@ -48,7 +48,7 @@ My work focuses on making advanced mathematics more accessible through computati
 
 ### Math as a Language
 
-- [MAAL-B](https://github.com/wanghemath/MAAL-B)  
+- Math As A Language and Beyond ([MAAL-B](https://github.com/wanghemath/MAAL-B))  
   Math As A Language and Beyond: a platform for learning graduate-level mathematical structures.
 
 ## Teaching and Development Themes
