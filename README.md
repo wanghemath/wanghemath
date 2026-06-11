@@ -16,24 +16,24 @@ My work focuses on making advanced mathematics more accessible through computati
 
 ### Linear Algebra, Matrix Analysis, and AI
 
-- [Book-AdvancedLinearAlgebraAI](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI)  
+- [Book-AdvancedLinearAlgebraAI](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI)  ([Book Site](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/))
   Graduate-level applied linear algebra, matrix analysis, computation, data science, and artificial intelligence.
 
 - [Book-LinearAlgebraComputation](https://github.com/wanghemath/Book-LinearAlgebraComputation)  
   Linear algebra with computation, algorithms, and applications.
 
-- [Book-LinearAlgebraLanguage](https://github.com/wanghemath/Book-LinearAlgebraLanguage)  
+- [Book-LinearAlgebraLanguage](https://github.com/wanghemath/Book-LinearAlgebraLanguage)  ([Book Site](https://wanghemath.github.io/Book-LinearAlgebraLanguage/))
   A visual, story-driven introduction to vectors, matrices, data, and AI.
 
 ### Probability, Statistics, and Stochastic Processes
 
-- [Book-IntroProbabilityStatistics](https://github.com/wanghemath/Book-IntroProbabilityStatistics)  
+- [Book-IntroProbabilityStatistics](https://github.com/wanghemath/Book-IntroProbabilityStatistics)   ([Book Site](https://wanghemath.github.io/Book-IntroProbabilityStatistics/))
   Introductory probability and statistics with computation and simulation.
 
-- [Book-ProbabilityStatisticalTheory](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)  
+- [Book-ProbabilityStatisticalTheory](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)   ([Book Site](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/))
   Foundations of probability and statistical theory for graduate students.
 
-- [Book-StochasticProcesses](https://github.com/wanghemath/Book-StochasticProcesses)  
+- [Book-StochasticProcesses](https://github.com/wanghemath/Book-StochasticProcesses) ([Book Site](https://wanghemath.github.io/Book-StochasticProcesses/))
   Theory, computation, simulation, and applications of stochastic processes.
 
 ### Machine Learning
