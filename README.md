@@ -4,13 +4,7 @@ Welcome to my GitHub profile. I create open educational resources, interactive c
 
 My work focuses on making advanced mathematics more accessible through computation, visualization, simulation, and project-based learning.
 
-## Website
 
-- Personal academic website: [wanghemath.github.io](https://wanghemath.github.io/)
-- Northeastern profile site: [hewang.sites.northeastern.edu](https://hewang.sites.northeastern.edu/)
-- Google Scholar: [He Wang](https://scholar.google.com/citations?user=woYNpf8AAAAJ&hl=en)
-- arXiv: [wang_h_2](https://arxiv.org/a/wang_h_2.html)
-- LinkedIn: [He Wang](https://www.linkedin.com/in/he-wang-b48b49229/)
 
 ## Online Books and Course Projects
 
@@ -72,7 +66,14 @@ I am especially interested in:
 ## Research Interests
 
 My research interests include algebraic topology, group theory, topological data analysis, random graphs, right-angled Artin groups, cohomology jumping loci, configuration spaces, braid groups, and applications of topology and algebra to data science and machine learning.
- 
+
+ ## Website
+
+- Personal academic website: [wanghemath.github.io](https://wanghemath.github.io/)
+- Northeastern profile site: [hewang.sites.northeastern.edu](https://hewang.sites.northeastern.edu/)
+- Google Scholar: [He Wang](https://scholar.google.com/citations?user=woYNpf8AAAAJ&hl=en)
+- arXiv: [wang_h_2](https://arxiv.org/a/wang_h_2.html)
+- LinkedIn: [He Wang](https://www.linkedin.com/in/he-wang-b48b49229/)
 ---
 
 Mathematics is a language for describing structure, uncertainty, computation, data, and intelligence.
