@@ -108,12 +108,12 @@ My research interests include:
 ## Selected Areas of Work
 
 <p align="center">
-  <b>Linear Algebra</b> ·
-  <b>Probability</b> ·
-  <b>Statistics</b> ·
-  <b>Stochastic Processes</b> ·
+  <b>Algebraic Topology </b> ·
+  <b>Group Theory</b> ·
   <b>Machine Learning</b> ·
-  <b>Topology</b> ·
+  <b>Stochastic Processes</b> ·
+  <b>Probability and Statistics</b> ·
+  <b>Linear Algebra</b> ·
   <b>AI Foundations</b>
 </p>
 
