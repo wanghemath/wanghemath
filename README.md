@@ -32,18 +32,18 @@ My work focuses on making advanced mathematics more accessible through computati
 
 ### Machine Learning
 
-- [Book-MachineLearning1](https://github.com/wanghemath/Book-MachineLearning1)  
+- Machine Learning and Statistical Learning 1 ([GitHub-Repository](https://github.com/wanghemath/Book-MachineLearning1))  
   Machine learning and statistical learning theory.
 
-- [Book-AdvancedMachineLearning](https://github.com/wanghemath/Book-AdvancedMachineLearning)  
+- Advanced Machine Learning and Statistical Learning Theory ([GitHub-Repository](https://github.com/wanghemath/Book-AdvancedMachineLearning))  
   Advanced machine learning topics and computational methods.
 
 ### Calculus
 
-- [Book-CalculusSingle](https://github.com/wanghemath/Book-CalculusSingle)  
+- Single-variable Calculus  ([GitHub-Repository](https://github.com/wanghemath/Book-CalculusSingle))   
   Single-variable calculus.
 
-- [Book-CalculusMulti](https://github.com/wanghemath/Book-CalculusMulti)  
+- Multivariable Calculus ([GitHub-Repository](https://github.com/wanghemath/Book-CalculusMulti))  
   Multivariable calculus.
 
 ### Math as a Language
