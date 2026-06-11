@@ -1,9 +1,5 @@
 # He Wang
 
-Associate Teaching Professor of Mathematics  
-Program Director for MS Applied Mathematics and MS Statistics  
-Northeastern University, Boston
-
 Welcome to my GitHub profile. I create open educational resources, interactive computational books, and teaching materials in mathematics, statistics, probability, stochastic processes, linear algebra, machine learning, and AI foundations.
 
 My work focuses on making advanced mathematics more accessible through computation, visualization, simulation, and project-based learning.
@@ -75,15 +71,8 @@ I am especially interested in:
 
 ## Research Interests
 
-My research interests include algebraic topology, topological data analysis, random graphs, right-angled Artin groups, cohomology jumping loci, configuration spaces, braid groups, and applications of topology and algebra to data science and machine learning.
-
-## Selected Links
-
-- GitHub Pages: [https://wanghemath.github.io/](https://wanghemath.github.io/)
-- GitHub Profile: [https://github.com/wanghemath](https://github.com/wanghemath)
-- Google Scholar: [https://scholar.google.com/citations?user=woYNpf8AAAAJ&hl=en](https://scholar.google.com/citations?user=woYNpf8AAAAJ&hl=en)
-- arXiv: [https://arxiv.org/a/wang_h_2.html](https://arxiv.org/a/wang_h_2.html)
-
+My research interests include algebraic topology, group theory, topological data analysis, random graphs, right-angled Artin groups, cohomology jumping loci, configuration spaces, braid groups, and applications of topology and algebra to data science and machine learning.
+ 
 ---
 
 Mathematics is a language for describing structure, uncertainty, computation, data, and intelligence.
