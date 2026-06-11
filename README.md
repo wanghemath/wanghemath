@@ -13,7 +13,7 @@ My work focuses on making advanced mathematics more accessible through computati
 - Advanced Linear Algebra in the AI Age: Geometry, Computation, and Data ([GitHub-Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI))  ([Book Site](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/))   
   Graduate-level applied linear algebra, matrix analysis, computation, data science, and artificial intelligence.
 
-- Linear Algebra Computation ([GitHub-Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation))  
+- Linear Algebra Computation ([GitHub-Repository](https://github.com/wanghemath/Book-ComputationalLinearAlgebra))  
   Linear algebra with computation, algorithms, and applications.
 
 - Linear Algebra Language ([GitHub-Repository](https://github.com/wanghemath/Book-LinearAlgebraLanguage)) ([Book Site](https://wanghemath.github.io/Book-LinearAlgebraLanguage/))   
