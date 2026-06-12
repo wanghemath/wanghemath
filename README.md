@@ -34,7 +34,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 | Project                                                                                             | Description                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Advanced Linear Algebra in the AI Age](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/) | Graduate-level linear algebra, matrix analysis, geometry, computation, data science, and AI. [Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI) |
-| [Linear Algebra Computation](https://github.com/wanghemath/Book-ComputationalLinearAlgebra)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.                                    |
+| [Linear Algebra Computation](https://github.com/wanghemath/Book-LinearAlgebraComputation)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.                                    |
 | [Linear Algebra Language](https://wanghemath.github.io/Book-LinearAlgebraLanguage/)                 | A visual, story-driven introduction to vectors, matrices, data, and AI. [Repository](https://github.com/wanghemath/Book-LinearAlgebraLanguage)                        |
 
 ---
