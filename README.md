@@ -31,7 +31,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 ### Linear Algebra, Matrix Analysis, and AI
 
-| Project                                                                                             | Description                                                                                                                                                           |
+| E-Book Site                                                                                             | Description                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Advanced Linear Algebra in the AI Age](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/) | Graduate-level linear algebra, matrix analysis, geometry, computation, data science, and AI. [Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI) |
 | [Linear Algebra Computation](https://wanghemath.github.io/Book-ComputationalLinearAlgebra/)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.  [Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation)                                  |
@@ -41,7 +41,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 ### Probability, Statistics, and Stochastic Processes
 
-| Project                                                                                                      | Description                                                                                                                                                                                                           |
+| E-Book Site                                                                                                       | Description                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Probability and Statistics: An Introduction](https://wanghemath.github.io/Book-IntroProbabilityStatistics/) | Introductory probability and statistics with computation, simulation, and data-centered examples. [Repository](https://github.com/wanghemath/Book-IntroProbabilityStatistics)                                         |
 | [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
@@ -51,7 +51,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 ### Machine Learning and Statistical Learning
 
-| Project                                                                                                                 | Description                                                                                                          |
+| E-Book Site                                                                                                                  | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [Machine Learning and Statistical Learning I](https://github.com/wanghemath/Book-MachineLearning1)                      | Foundations of statistical learning, supervised learning, computational methods, and applications.                   |
 | [Advanced Machine Learning and Statistical Learning Theory](https://github.com/wanghemath/Book-AdvancedMachineLearning) | Advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. |
@@ -60,7 +60,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 ### Calculus
 
-| Project                                                                       | Description                                                                            |
+| E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [Single-Variable Calculus](https://github.com/wanghemath/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.         |
 | [Multivariable Calculus](https://github.com/wanghemath/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. |
