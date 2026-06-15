@@ -29,7 +29,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 ## Featured E-Book Projects
 
-The following books are based on my teaching materials for the corresponding courses and incorporate new ideas for the age of AI. The books are created (not traditionally written, not simply generated) with the help of AI (mostly ChatGPT, some Claude). 
+The following books are based on my teaching materials for the corresponding courses and incorporate new ideas for the age of AI. The books are created (not traditionally written, not simply generated) with the help of AI (mostly ChatGPT, some Claude). Most of them are graduate-level or preparation for graduate studies. 
 
 ### Linear Algebra, Matrix Analysis, and AI
 
@@ -47,7 +47,7 @@ The following books are based on my teaching materials for the corresponding cou
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Probability and Statistics: An Introduction](https://wanghemath.github.io/Book-IntroProbabilityStatistics/) | Introductory probability and statistics with computation, simulation, and data-centered examples. [Repository](https://github.com/wanghemath/Book-IntroProbabilityStatistics)                                         |
 | [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
-| [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
+| [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Graduate-level Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
 
 ---
 
@@ -55,8 +55,8 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                                                                  | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Machine Learning and Statistical Learning I](https://github.com/wanghemath/Book-MachineLearning1)                      | Foundations of statistical learning, supervised learning, computational methods, and applications.                   |
-| [Advanced Machine Learning and Statistical Learning Theory](https://github.com/wanghemath/Book-AdvancedMachineLearning) | Advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. |
+| [Machine Learning and Statistical Learning I](https://github.com/wanghemath/Book-MachineLearning1)                      | Graduate-level foundations of statistical learning, supervised learning, computational methods, and applications.                   |
+| [Advanced Machine Learning and Statistical Learning Theory](https://github.com/wanghemath/Book-AdvancedMachineLearning) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. |
 
 ---
 
