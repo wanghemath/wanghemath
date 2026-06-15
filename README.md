@@ -29,7 +29,7 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 ## Featured E-Book Projects
 
-The following books are created based on my teaching materials for the corresponding courses and new thoughts in age of AI. The books are created (not traditionally written, not simply generated) with the help of AI (mostly ChatGPT, some Claude). 
+The following books are based on my teaching materials for the corresponding courses and incorporate new ideas for the age of AI. The books are created (not traditionally written, not simply generated) with the help of AI (mostly ChatGPT, some Claude). 
 
 ### Linear Algebra, Matrix Analysis, and AI
 
