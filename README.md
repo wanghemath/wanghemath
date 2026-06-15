@@ -64,8 +64,8 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Single-Variable Calculus](https://github.com/wanghemath/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.         |
-| [Multivariable Calculus](https://github.com/wanghemath/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. |
+| [Single-Variable Calculus](https://wanghemath.github.io/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-CalculusSingle)     |
+| [Multivariable Calculus](https://wanghemath.github.io/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CalculusMulti) |
 
 ---
 
