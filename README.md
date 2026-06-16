@@ -35,9 +35,9 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                                             | Description                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Advanced Linear Algebra in the AI Age](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/) | Graduate-level linear algebra, matrix analysis, geometry, computation, data science, and AI. [Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI) |
-| [Linear Algebra Computation](https://wanghemath.github.io/Book-LinearAlgebraComputation/)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.  [Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation)                                  |
 | [Linear Algebra Language](https://wanghemath.github.io/Book-LinearAlgebraLanguage/)                 | A visual, story-driven introduction to vectors, matrices, data, and AI. [Repository](https://github.com/wanghemath/Book-LinearAlgebraLanguage)                        |
+| [Linear Algebra Computation](https://wanghemath.github.io/Book-LinearAlgebraComputation/)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.  [Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation)                                  |
+| [Advanced Linear Algebra in the AI Age](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/) | Graduate-level linear algebra, matrix analysis, geometry, computation, data science, and AI. [Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI) |
 
 ---
 
