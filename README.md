@@ -35,9 +35,9 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                                             | Description                                                                                                                                                           |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Linear Algebra Language](https://wanghemath.github.io/Book-LinearAlgebraLanguage/)                 | A visual, story-driven introduction to vectors, matrices, data, and AI. [Repository](https://github.com/wanghemath/Book-LinearAlgebraLanguage)                        |
-| [Linear Algebra Computation](https://wanghemath.github.io/Book-LinearAlgebraComputation/)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.  [Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation)                                  |
-| [Advanced Linear Algebra in the AI Age](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/) | Graduate-level linear algebra, matrix analysis, geometry, computation, data science, and AI. [Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI) |
+| 1. [Linear Algebra Language](https://wanghemath.github.io/Book-LinearAlgebraLanguage/)                 | A visual, story-driven introduction to vectors, matrices, data, and AI. [Repository](https://github.com/wanghemath/Book-LinearAlgebraLanguage)                        |
+| 2. [Linear Algebra Computation](https://wanghemath.github.io/Book-LinearAlgebraComputation/)         | A computational first introduction to linear algebra in $\mathbb{R}^n$, with algorithms, numerical methods, and STEM applications.  [Repository](https://github.com/wanghemath/Book-LinearAlgebraComputation)                                  |
+| 3. [Advanced Linear Algebra in the AI Age](https://wanghemath.github.io/Book-AdvancedLinearAlgebraAI/) | Graduate-level linear algebra, matrix analysis, geometry, computation, data science, and AI. [Repository](https://github.com/wanghemath/Book-AdvancedLinearAlgebraAI) |
 
 ---
 
@@ -45,9 +45,9 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                                                       | Description                                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Probability and Statistics: An Introduction](https://wanghemath.github.io/Book-IntroProbabilityStatistics/) | Introductory probability and statistics with computation, simulation, and data-centered examples. [Repository](https://github.com/wanghemath/Book-IntroProbabilityStatistics)                                         |
-| [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
-| [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Graduate-level Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
+| 1. [Probability and Statistics: An Introduction](https://wanghemath.github.io/Book-IntroProbabilityStatistics/) | Introductory probability and statistics with computation, simulation, and data-centered examples. [Repository](https://github.com/wanghemath/Book-IntroProbabilityStatistics)                                         |
+| 2. [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
+| 3. [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Graduate-level Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
 
 ---
 
@@ -55,8 +55,8 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                                                                  | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [Machine Learning and Statistical Learning I](https://github.com/wanghemath/Book-MachineLearning1)                      | Graduate-level foundations of statistical learning, supervised learning, computational methods, and applications.                   |
-| [Advanced Machine Learning and Statistical Learning Theory](https://github.com/wanghemath/Book-AdvancedMachineLearning) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. |
+| 1. [Machine Learning and Statistical Learning I](https://github.com/wanghemath/Book-MachineLearning1)                      | Graduate-level foundations of statistical learning, supervised learning, computational methods, and applications.                   |
+| 2. [Advanced Machine Learning and Statistical Learning Theory](https://github.com/wanghemath/Book-AdvancedMachineLearning) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. |
 
 ---
 
@@ -64,8 +64,8 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Single-Variable Calculus](https://wanghemath.github.io/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-CalculusSingle)     |
-| [Multivariable Calculus](https://wanghemath.github.io/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CalculusMulti) |
+| 1. [Single-Variable Calculus](https://wanghemath.github.io/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-CalculusSingle)     |
+| 2. [Multivariable Calculus](https://wanghemath.github.io/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CalculusMulti) |
 
 ---
 
