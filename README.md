@@ -69,7 +69,7 @@ The following books are based on my teaching materials for the corresponding cou
 
 ---
 
-### Math as a Language
+### Math as a Language and Beyond (MAAL-B) 
 
 | Project                                                               | Description                                                                                                              |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
