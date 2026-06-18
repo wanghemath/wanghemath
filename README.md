@@ -48,6 +48,7 @@ The following books are based on my teaching materials for the corresponding cou
 | 1. [Probability and Statistics: An Introduction](https://wanghemath.github.io/Book-IntroProbabilityStatistics/) | Introductory probability and statistics with computation, simulation, and data-centered examples. [Repository](https://github.com/wanghemath/Book-IntroProbabilityStatistics)                                         |
 | 2. [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
 | 3. [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Graduate-level Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
+| 4. [Applied Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               |   Applications of stochastic processes. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
 
 ---
 
