@@ -31,6 +31,15 @@ I develop resources that connect rigorous mathematical thinking with computation
 
 The following books are based on my teaching materials for the corresponding courses and incorporate new ideas for the age of AI. The books are built/created (not traditionally written, not simply generated) with the help of AI (mostly ChatGPT, some Claude). Most of them are graduate-level or preparation for graduate studies. All e-books include **Python lab** and **interactive visualization page** in each section. 
 
+### Calculus
+
+| E-Book Site                                                                        | Description                                                                            |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1. [Single-Variable Calculus](https://wanghemath.github.io/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-CalculusSingle)     |
+| 2. [Multivariable Calculus](https://wanghemath.github.io/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CalculusMulti) |
+
+---
+
 ### Linear Algebra, Matrix Analysis, and AI
 
 | E-Book Site                                                                                             | Description                                                                                                                                                           |
@@ -49,6 +58,7 @@ The following books are based on my teaching materials for the corresponding cou
 | 2. [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
 | 3. [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Graduate-level Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
 | 4. [Applied Stochastic Processes]                                |   Applications of stochastic processes.  (in plan) |
+| 5. [Mathematical Finance]                                |   Applications to Finance.  (in plan) |
 
 ---
 
@@ -62,12 +72,13 @@ The following books are based on my teaching materials for the corresponding cou
 
 ---
 
-### Calculus
+### Applied Machine Learning and Deep Learning
 
 | E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1. [Single-Variable Calculus](https://wanghemath.github.io/Book-CalculusSingle) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-CalculusSingle)     |
-| 2. [Multivariable Calculus](https://wanghemath.github.io/Book-CalculusMulti)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CalculusMulti) |
+| 1. [Mathematical NLP](https://wanghemath.github.io/Book-NLP) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-NLP)     |
+| 2. [Mathematical CV](https://wanghemath.github.io/Book-CV)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CV) |
+| 3. [Mathematical RL](https://wanghemath.github.io/Book-RL)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-RL) |
 
 ---
 
