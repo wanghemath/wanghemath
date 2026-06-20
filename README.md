@@ -76,9 +76,9 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1. [Mathematical NLP](https://wanghemath.github.io/Book-NLP) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-NLP)     |
-| 2. [Mathematical CV](https://wanghemath.github.io/Book-CV)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CV) |
-| 3. [Mathematical RL](https://wanghemath.github.io/Book-RL)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-RL) |
+| 1. [Mathematical NLP](https://wanghemath.github.io/Book-NLP) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-NLP) (in plan)    |
+| 2. [Mathematical CV](https://wanghemath.github.io/Book-CV)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CV) (in plan)|
+| 3. [Mathematical RL](https://wanghemath.github.io/Book-RL)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-RL) (in plan)|
 
 ---
 
