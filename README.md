@@ -67,7 +67,7 @@ The following books are based on my teaching materials for the corresponding cou
 | E-Book Site                                                                                                                  | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1. [Machine Learning 1](https://wanghemath.github.io/Book-MachineLearning1/)                      | Graduate-level foundations of statistical learning, supervised learning, computational methods, and applications. [Repository](https://github.com/wanghemath/Book-MachineLearning1)                   |
-| 2. [Advanced Machine Learning and Statistical Learning Theory](https://wanghemath.github.io/Book-MachineLearning2Adv) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. [Repository](https://github.com/wanghemath/Book-MachineLearning2sda)|
+| 2. [Statistical Learning Theory](https://wanghemath.github.io/Book-MachineLearning2Adv) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. [Repository](https://github.com/wanghemath/Book-MachineLearning2sda)|
 | 3. [Time Series Analysis and Sequence Models](https://wanghemath.github.io/Book-MachineLearning2sda) | Graduate-level advanced Machine Learning for  Time Series, Sequence Models. [Repository](https://github.com/wanghemath/Book-MachineLearning2sda)|
 
 ---
