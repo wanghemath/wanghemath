@@ -67,8 +67,8 @@ The following books are based on my teaching materials for the corresponding cou
 | E-Book Site                                                                                                                  | Description                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 1. [Machine Learning 1](https://wanghemath.github.io/Book-MachineLearning1/)                      | Graduate-level foundations of statistical learning, supervised learning, computational methods, and applications. [Repository](https://github.com/wanghemath/Book-MachineLearning1)                   |
-| 2. [Advanced Machine Learning and Statistical Learning Theory](https://github.com/wanghemath/Book-AdvancedMachineLearning) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. |
-| 3. [Machine Learning for Time Series, Sequence Models, and Language AI](https://github.com/wanghemath/Book-SequenceModels) | Graduate-level advanced Machine Learning for  Time Series, Sequence Models, and Language AI. |
+| 2. [Advanced Machine Learning and Statistical Learning Theory](https://wanghemath.github.io/Book-MachineLearning2Adv) | Graduate-level advanced learning theory, modern machine learning methods, high-dimensional modeling, and computational experiments. [Repository](https://github.com/wanghemath/Book-MachineLearning2sda)|
+| 3. [Time Series Analysis and Sequence Models](https://wanghemath.github.io/Book-MachineLearning2sda) | Graduate-level advanced Machine Learning for  Time Series, Sequence Models. [Repository](https://github.com/wanghemath/Book-MachineLearning2sda)|
 
 ---
 
@@ -76,9 +76,9 @@ The following books are based on my teaching materials for the corresponding cou
 
 | E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1. [Mathematical NLP](https://wanghemath.github.io/Book-NLP) | Course materials for limits, derivatives, integrals, series, and applications.    [Repository](https://github.com/wanghemath/Book-NLP) (in plan)    |
-| 2. [Mathematical CV](https://wanghemath.github.io/Book-CV)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-CV) (in plan)|
-| 3. [Mathematical RL](https://wanghemath.github.io/Book-RL)    | Geometry, partial derivatives, multiple integrals, vector fields, and vector calculus. [Repository](https://github.com/wanghemath/Book-RL) (in plan)|
+| 1. [Mathematical NLP](https://wanghemath.github.io/Book-MathNLP) | Mathematical view of Natural Language Processing.    [Repository](https://github.com/wanghemath/Book-MathNLP) (in plan)    |
+| 2. [Mathematical CV](https://wanghemath.github.io/Book-MathCV)    | Mathematical view of Computer Vision. [Repository](https://github.com/wanghemath/Book-MathCV) (in plan)|
+| 3. [Mathematical RL](https://wanghemath.github.io/Book-MathRL)    | Mathematical view of Reinforcement Learning. [Repository](https://github.com/wanghemath/Book-MathRL) (in plan)|
 
 ---
 
