@@ -58,7 +58,7 @@ The following books are based on my teaching materials for the corresponding cou
 | 2. [Probability and Statistical Theory](https://wanghemath.github.io/Book-ProbabilityStatisticalTheory/)        | Graduate-level foundations of probability and statistical theory with computational and simulation-based perspectives. [Repository](https://github.com/wanghemath/Book-ProbabilityStatisticalTheory)                  |
 | 3. [Stochastic Processes](https://wanghemath.github.io/Book-StochasticProcesses/)                               | Graduate-level Markov chains, Poisson processes, continuous-time Markov chains, renewal theory, queueing, Brownian motion, martingales, SDEs, and applications. [Repository](https://github.com/wanghemath/Book-StochasticProcesses) |
 | 4. [Applied Stochastic Processes]                                |   Applications of stochastic processes.  (in plan) |
-| 5. [Mathematical Finance]                                |   Applications to Finance.  (in plan) |
+| 5. [Mathematical Finance]                                |   Applications to Finance.  (Under Construction) |
 
 ---
 
@@ -72,13 +72,13 @@ The following books are based on my teaching materials for the corresponding cou
 
 ---
 
-### Applied Machine Learning and Deep Learning
+### Applied Machine Learning and Deep Learning (Under Construction)
 
 | E-Book Site                                                                        | Description                                                                            |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 1. [Mathematical NLP](https://wanghemath.github.io/Book-MathNLP) | Mathematical view of Natural Language Processing.    [Repository](https://github.com/wanghemath/Book-MathNLP) (in plan)    |
-| 2. [Mathematical CV](https://wanghemath.github.io/Book-MathCV)    | Mathematical view of Computer Vision. [Repository](https://github.com/wanghemath/Book-MathCV) (in plan)|
-| 3. [Mathematical RL](https://wanghemath.github.io/Book-MathRL)    | Mathematical view of Reinforcement Learning. [Repository](https://github.com/wanghemath/Book-MathRL) (in plan)|
+| 1. [Mathematical NLP](https://wanghemath.github.io/Book-MathNLP) | Mathematical view of Natural Language Processing.    [Repository](https://github.com/wanghemath/Book-MathNLP)  
+| 2. [Mathematical CV](https://wanghemath.github.io/Book-MathCV)    | Mathematical view of Computer Vision. [Repository](https://github.com/wanghemath/Book-MathCV)  |
+| 3. [Mathematical RL](https://wanghemath.github.io/Book-MathRL)    | Mathematical view of Reinforcement Learning. [Repository](https://github.com/wanghemath/Book-MathRL)  |
 
 ---
 
